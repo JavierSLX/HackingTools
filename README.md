@@ -4,5 +4,6 @@
 
 ## Herramientas
 
-* cabeceras.py: `python cabeceras.py -t [URL]`. Permite analizar las cabeceras de un sitio que se visita.
-* post.py: `python post.py -f [FILE]`. Script de prueba que permite subir un archivo a una url de prueba
+* cabeceras: `python cabeceras.py -t [URL]`. Permite analizar las cabeceras de un sitio que se visita.
+* post: `python post.py -f [FILE]`. Script de prueba que permite subir un archivo a una url de prueba
+* busqueda: `python busqueda.py -b [BUSQUEDA]`. Script que permite realizar una busqueda en Google.
