@@ -5,3 +5,4 @@
 ## Herramientas
 
 * cabeceras.py: `python cabeceras.py -t [URL]`. Permite analizar las cabeceras de un sitio que se visita.
+* post.py: `python post.py -f [FILE]`. Script de prueba que permite subir un archivo a una url de prueba
